@@ -202,11 +202,11 @@ aside:
     # 个人信息卡片顶部按钮的打招呼语句
     # Greeting statement of the button at the top of the personal information card
     sayhello: # 样式为2时无效
-      morning: 一日之计在于晨
-      noon: 吃饱了才有力气干活
-      afternoon: 集中精力，攻克难关
-      night: 不要太劳累了，早睡更健康
-      goodnight: 睡个好觉，保证精力充沛
+      morning: 可以贪黑但不能起早
+      noon: 很外向，上班总想坐老板的位置
+      afternoon: 错误事件 错误地点 超级饿蛋 减肥中断
+      night: 下班了，今天的苦先吃到这里
+      goodnight: 被窝更适合中国宝宝体质
     # 个人信息卡片顶部按钮的切换文字
     # Switching text of the button at the top of the personal information card
     sayhello2: # 样式为2时无效
