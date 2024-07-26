@@ -49,8 +49,8 @@ nav:
       全部分类: /categories/ || st-checkbox-multiple-blank-fill
       全部标签: /tags/ || st-price-tag-fill
     友链: /links/
-      # 友链鱼塘: /moments/ || st-wifi-fill
-      # 友情链接: /links/ || st-group-fill
+      友链鱼塘: /moments/ || st-wifi-fill
+      友情链接: /links/ || st-group-fill
       # 宝藏博主: javascript:travelling() || st-gift-fill
     # 我的:
     #   装备: /equipment/ || st-laptop-line
