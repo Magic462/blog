@@ -12,6 +12,13 @@ links:
          topimg: https://cdn.libravatar.org/avatar/6790d5a0c7fbba6038a2bf4618cc24d9?s=480 # 如果是card模式下，将显示
          tag: 博主
          color: vip
+          name: 桃姐 # 友链名称
+         link: https://taolin.site    # 友链地址
+         descr: 摆烂的桃   # 友链简介
+         avatar: https://taolin-picture-1313126608.cos.ap-chengdu.myqcloud.com/taolin_cat.jpg # 显示头像
+        #  topimg: https://cdn.libravatar.org/avatar/6790d5a0c7fbba6038a2bf4618cc24d9?s=480 # 如果是card模式下，将显示
+         tag: 博主
+         color: vip
   #  - class_name: 技术
   #    descr: 技术知识为主的博客
   #    type: item
