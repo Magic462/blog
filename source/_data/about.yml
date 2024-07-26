@@ -16,12 +16,12 @@ contentinfo: # 顶部个人信息展示
   name: 我叫Magic # 名称
   title: 是一名学生，目前在西安邮电大学移动应用开发实验室学习前端 # 介绍
   tip: 追求
-  slogan: 源于<br>热爱而去创造
+  slogan: 生命
   mask:
-    - 优秀的产品
-    - 出色的设计
-    - 高效的编程
-    - 人性化的用户体验
+    - 在于腾空的那一秒
+    - 是一万次春和景明
+    - 是自己的画板
+    - 之山亘古长青
 
 skills: # 根据需求添加
   title: 技能
@@ -53,22 +53,22 @@ careers:
   title: 生涯
   subtitle: 无限进步
   items:
-    - school: 软件工程
+    - school: 网络工程
       major: 学习
       color: '#357ef5'
   image: https://7.isyangs.cn/1/65eb2d10ba24d-1.png
 
 personalities:
   tips: 性格
-  title: 执政官
+  title: 快乐小狗
   color: '#56a178'
-  type: ESFJ-A
+  type: ENFP/ENFJ
   image: https:/example.com/ESFJ-A.svg
   link: https://www.16personalities.com/
   linkText: 16personalities
   typeLink: https://www.16personalities.com/ch/esfj-人格
   typeName: 执政官
-  myphoto: https://7.isyangs.cn/1/65eb2d340cad3-1.png
+  # myphoto: https://7.isyangs.cn/1/65eb2d340cad3-1.png
 
 motto:
   title: 座右铭
@@ -76,7 +76,7 @@ motto:
   content: 砥砺前行。
 expertise:
   title: 特长
-  prefix: 数学、物理、化学
+  prefix: 数学、物理
   specialist: 专家
   content: 学习能力
   level: MAX
