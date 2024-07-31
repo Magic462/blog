@@ -117,14 +117,14 @@ tj: # 统计
   img: https://7.isyangs.cn/1/65eb2e9109826-1.png # 背景
 
 oneself: # 按需填写
-  location: 中国，湖南省 # 所在位置
-  birthYear: 2004 # 生日
-  university: 湖南大学 # 毕业学校
-  major: 软件工程 # 专业
+  location: 中国 西安 # 所在位置
+  birthYear: 2005 # 生日
+  university: 西安邮电大学 # 毕业学校
+  major: 网络工程 # 专业
   occupation: 学生 # 职位
-  map: # 你所在位置的地图
-    light: https://7.isyangs.cn/1/65eb2ec63a9aa-1.png # 白天
-    dark: https://7.isyangs.cn/1/65eb2eedc780e-1.png # 夜晚
+  # map: # 你所在位置的地图
+  #   light: https://7.isyangs.cn/1/65eb2ec63a9aa-1.png # 白天
+  #   dark: https://7.isyangs.cn/1/65eb2eedc780e-1.png # 夜晚
 
 #自定义
 cause:
