@@ -72,8 +72,8 @@ personalities:
 
 motto:
   title: 座右铭
-  prefix: 破釜沉舟，
-  content: 砥砺前行。
+  prefix: 我知我喜乐
+  content: 纵情跋涉。
 expertise:
   title: 特长
   prefix: 数学、物理
@@ -82,31 +82,31 @@ expertise:
   level: MAX
 
 game1:
-  title: 爱好游戏
+  title: 喜欢旅游 喜欢记录
   img: https://7.isyangs.cn/1/65eb2d8954aac-1.png
   icon: fas fa-gamepad
-  subtitle: APEX LEGENDS
-  tips_left: C位
-  tips_right: ID Wleelw
+  subtitle: 镜头里定格的每一个瞬间
+  tips_left: 繁华都市
+  tips_right: 自然风光
 
 game2:
-  title: 爱好游戏
+  title: 
   img: https://7.isyangs.cn/1/65eb2e0383970-1.png
-  subtitle: 精灵与萤火意志
+  subtitle: 喜欢尝试新鲜的事物，对于可以提升充实自己的事情都很积极
   icon: fas fa-dice-d20
-  tips_right: 跑图大师
+  tips_right: 目前很想尝试滑雪
 
 likes:
   - type: like-technology
     bg: https://7.isyangs.cn/1/65eb2e3d6616b-1.png
-    tips: 关注偏好
-    title: 数理化
-    subtips: 理工男
+    tips: 兴趣爱好
+    title: 喜欢和朋友在一起 干什么都行
+    subtips: 包e的
   - type: like-music
     bg: https://7.isyangs.cn/1/65eb2e5f85132-1.png
     tips: 音乐偏好
-    title: 民谣、古典、轻音乐
-    subtips: 跟 王卓Sco 一起欣赏更多音乐
+    title: 民谣、古典、JJ
+    subtips: 跟 Magic 一起欣赏更多音乐
     button: true
     button_text: 更多推荐
     button_link: /music/
@@ -122,17 +122,17 @@ oneself: # 按需填写
   university: 西安邮电大学 # 毕业学校
   major: 网络工程 # 专业
   occupation: 学生 # 职位
-  map: # 你所在位置的地图
-    light: https://7.isyangs.cn/1/65eb2ec63a9aa-1.png # 白天
-    dark: https://7.isyangs.cn/1/65eb2eedc780e-1.png # 夜晚
+  # map: # 你所在位置的地图
+  #   light: https://7.isyangs.cn/1/65eb2ec63a9aa-1.png # 白天
+  #   dark: https://7.isyangs.cn/1/65eb2eedc780e-1.png # 夜晚
 
 #自定义
 cause:
   tip: 心路历程
   title: 为什么搭建个人博客？
   content:
-    <br>起初有搭建博客的想法比较功利化吧，但随着时间的沉淀，我更觉得博客的意义在于<b>记录自己的成长与心得
-    <br>很感谢有这么一个平台更好的帮助我在进步这条路上的走的更加长远，同样也很感谢我的博客<b>启蒙人<b>
+    <br>起初有搭建博客的想法比较功利化吧，但随着时间的沉淀，我更觉得博客的意义在于记录自己的成长与心得
+    <br>很感谢有这么一个平台更好的帮助我在进步这条路上的走的更加长远，同样也很感谢我的博客启蒙人
     <br>从他的博客我看到了积年累月的知识沉淀，也是他的博客引起我强烈想搭博客的欲望，希望一直向他学习
     <br>最后呢，很高兴认识大家，希望我们都能有收获
 
