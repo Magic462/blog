@@ -29,25 +29,25 @@ skills: # 根据需求添加
   tags:
     - title: HTML
       icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/HTML.png
-      color: '#e9572b'
+      color: "#e9572b"
     - title: Javascript
       icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/JS.png
-      color: '#f7cb4f'
+      color: "#f7cb4f"
     - title: Kotlin
       icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/kotlin-logo.svg
-      color: '#ffffff'
+      color: "#ffffff"
     - title: WebPack
       icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/webpack.png
-      color: '#2e3a41'
+      color: "#2e3a41"
     - title: Git
       icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/git.png
-      color: '#df5b40'
+      color: "#df5b40"
     - title: Docker
       icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/webpack.png
-      color: '#57b6e6'
+      color: "#57b6e6"
     - title: Visual Studio
       icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/vs-logo.svg
-      color: '#ffffff'
+      color: "#ffffff"
 
 careers:
   title: 生涯
@@ -55,13 +55,13 @@ careers:
   items:
     - school: 网络工程
       major: 学习
-      color: '#357ef5'
+      color: "#357ef5"
   image: https://7.isyangs.cn/1/65eb2d10ba24d-1.png
 
 personalities:
   tips: 性格
   title: 快乐小狗
-  color: '#56a178'
+  color: "#56a178"
   type: ENFP/ENFJ
   image: https:/example.com/ESFJ-A.svg
   link: https://www.16personalities.com/
@@ -90,7 +90,7 @@ game1:
   tips_right: 自然风光
 
 game2:
-  title: 
+  title:
   img: https://7.isyangs.cn/1/65eb2e0383970-1.png
   subtitle: 喜欢尝试新鲜的事物，对于可以提升充实自己的事情都很积极
   icon: fas fa-dice-d20
@@ -112,7 +112,7 @@ likes:
     button_link: /music/
 
 tj: # 统计
-  provider:  # 值为 51la（51la网站统计）或 baidu（百度统计）
+  provider: # 值为 51la（51la网站统计）或 baidu（百度统计）
   url: https://v6-widget.51.la/v6/3F15j2vtdTo7PPcN/quote.js # 需要到51la官网注册自行获取 or 自行搭建 Heo 的 百度统计项目，填写访问地址即可
   img: https://7.isyangs.cn/1/65eb2e9109826-1.png # 背景
 
@@ -122,31 +122,32 @@ oneself: # 按需填写
   university: 西安邮电大学 # 毕业学校
   major: 网络工程 # 专业
   occupation: 学生 # 职位
-  # map: # 你所在位置的地图
-  #   light: https://7.isyangs.cn/1/65eb2ec63a9aa-1.png # 白天
-  #   dark: https://7.isyangs.cn/1/65eb2eedc780e-1.png # 夜晚
+  map: # 你所在位置的地图
+    light: # 白天
+    dark: # 夜晚
 
 #自定义
 cause:
   tip: 心路历程
   title: 为什么搭建个人博客？
   content:
-    <br>起初有搭建博客的想法比较功利化吧，但随着时间的沉淀，我更觉得博客的意义在于记录自己的成长与心得
-    <br>很感谢有这么一个平台更好的帮助我在进步这条路上的走的更加长远，同样也很感谢我的博客启蒙人
+    <br>起初有搭建博客的想法比较功利化吧，但随着时间的沉淀，我更觉得博客的意义在于<b>记录自己的成长与心得</b>
+    <br>很感谢有这么一个平台更好的帮助我在进步这条路上的走的更加长远，同样也很感谢我的博客<b>启蒙人</b>
     <br>从他的博客我看到了积年累月的知识沉淀，也是他的博客引起我强烈想搭博客的欲望，希望一直向他学习
     <br>最后呢，很高兴认识大家，希望我们都能有收获
 
 tenyear:
-  tips: 十年之约
-  title: 一个人的寂寞，一群人的狂欢。
+  tips: 笔耕不辍
+  title: 连续十年内容产出
   start: 2023年04月20日
   end: 2033年04月20日
 
 award:
-  enable: true
+  enable: false
   description: 感谢赞赏的人，因为你们，让我感受到写博客这件事情能够给你们创造了价值。这会让我在这条路上走得更远。
   tips: 总金额：¥ {sum}，将全部用于博客的维护和更新。 # 必须带 {sum}，否则无法显示总金额
-rewardList: # 底部捐赠
+  # 底部捐赠
+rewardList:
   - name: 悦华
     money: 5
     time: 2023-04-20
